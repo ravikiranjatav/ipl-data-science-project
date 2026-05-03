@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignore cache and junk
+.cache/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed/
